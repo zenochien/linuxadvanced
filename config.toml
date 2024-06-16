@@ -18,7 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "INTRODUCTION TO AMAZON EC2."
+title = "INTRODUCTION TO LINUX BASIC AND ADVANCED."
 weight = 1
 languageName = "English"
 
@@ -34,10 +34,10 @@ identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
-[Languages.vi]
-title = "GIỚI THIỆU VỀ AMAZON EC2"
-weight = 2
-languageName = "Tiếng Việt"
+# [Languages.vi]
+# title = "GIỚI THIỆU VỀ AMAZON EC2"
+# weight = 2
+# languageName = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
